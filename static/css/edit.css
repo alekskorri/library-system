@@ -1,0 +1,34 @@
+
+
+h4 {
+    display: flex;
+    justify-content: center;
+    font-family: -webkit-body;
+
+}
+
+label {
+    font-family: -webkit-body;
+}
+
+
+#update-class {
+    max-width: 600px;
+    margin-top:50px;
+    position: relative;
+    z-index: 2;
+    padding:30px;
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    background-color: #8390a1;
+    margin-bottom: 30px;
+}
+
+.form-group {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.btn-primary {
+            width: 100%;
+}

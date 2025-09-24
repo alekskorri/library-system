@@ -1,0 +1,14 @@
+#home {
+  min-height: 70vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.x-button {
+     display: flex;
+    justify-content: end;
+ }
+
+ .x-button > a {
+    padding: 0px 7px 0px 7px;
+ }
