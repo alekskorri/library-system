@@ -20,9 +20,8 @@ A simple Django project for managing books.
 ## How to Run
 
 1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/django-crud-library_system.git
-   cd django-crud-library_system
+   git clone https://github.com/yourusername/library-system.git
+   cd library-system
    
 2. Install dependencies:
     pip install -r requirements.txt
