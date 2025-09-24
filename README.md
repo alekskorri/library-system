@@ -1,4 +1,4 @@
-# Django Book Manager
+# Django Library Managment System
 
 A simple Django project for managing books.  
 
